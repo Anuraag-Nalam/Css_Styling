@@ -11,6 +11,8 @@ display: block;
 `
 //conditionally adding css classes by passing props in the styled components. 
 //you use $invalid in order to avoid the clash with the default in built attributes
+
+//checking git repo
 const Input = styled.input`
 width: 100%;
 padding: 0.75rem 1rem;
